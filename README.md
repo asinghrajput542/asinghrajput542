@@ -1,4 +1,4 @@
-<!--                                                     Hi 👋, I'm Ayush Singh
+  <!--                                                     Hi 👋, I'm Ayush Singh
                                                    A seasoned web dev from India
 🔭 I’m currently working at Rakuten 
 
@@ -16,7 +16,7 @@ https://www.linkedin.com/in/ayush-singh-5b3651176
 Languages and Tools:
 css3 git html5 javascript jest postman java python react redux sass tailwind typescript webpack parcel-->
 
-<h1 align="center">Hi 👋, I'm Abhishek Saxena</h1>
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A seasoned web dev from India</h3>
 
 - 🔭 I’m currently working at [Rakuten Symphony](https://symphony.rakuten.com/)
