@@ -19,13 +19,18 @@ css3 git html5 javascript jest postman java python react redux sass tailwind typ
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A seasoned web dev from India</h3>
 
+<img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
+
+
 - 🔭 I’m currently working at [Rakuten Symphony](https://symphony.rakuten.com/)
 
 - 🌱 I’m currently learning **Next.Js and Solidity**
 
-- 💬 Ask me about **react, nextjs, Java, Spring Boot, Micro-Service**
+- 💬 Ask me about **react, JavaScript, Java, Spring Boot, Micro-Service**
 
-- 📫 How to reach me **asinghrajput542@gmail.com**
+- 📫 How to reach me **asinghrajput542@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13w8uxOwVs-XxdoBxehz4SW1WPovZHPFm/view?usp=sharing)
 
 
 
