@@ -17,7 +17,7 @@ Languages and Tools:
 css3 git html5 javascript jest postman java python react redux sass tailwind typescript webpack parcel-->
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A seasoned web dev from India</h3>
+<h3 align="center">A seasoned fullstack dev from India</h3>
 
 <img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
