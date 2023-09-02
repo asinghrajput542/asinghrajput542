@@ -1,20 +1,4 @@
-  <!--                                                     Hi 👋, I'm Ayush Singh
-                                                   A seasoned web dev from India
-🔭 I’m currently working at Rakuten 
 
-🌱 I’m currently learning React.Js
-
-💬 Ask me about react, Java, Spring Boot
-
-📫 How to reach me asinghrajput542@gmail.com
-
-⚡ Fun fact I find brainstorming systems more interesting than to code them!
-
-Connect with me:
-https://www.linkedin.com/in/ayush-singh-5b3651176
-
-Languages and Tools:
-css3 git html5 javascript jest postman java python react redux sass tailwind typescript webpack parcel-->
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A seasoned fullstack dev from India</h3>
