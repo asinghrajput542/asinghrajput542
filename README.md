@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A seasoned fullstack dev from India</h3>
 
