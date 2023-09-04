@@ -58,12 +58,12 @@
 	</a>
 </p>
 
-<p >
+<!--<p >
 	<a href="https://github.com/asinghrajput542">
 		<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=asinghrajput542&theme=dark&hide_border=false" />
 	</a>
 </p>
-
+-->
 <!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
