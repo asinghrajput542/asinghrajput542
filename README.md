@@ -4,7 +4,7 @@
 <img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
 
-- 🔭 I’m currently working at [Rakuten Symphony](https://symphony.rakuten.com/)
+<!-- - 🔭 I’m currently working at [Rakuten Symphony](https://symphony.rakuten.com/)-->
 
 - 🌱 I’m currently learning **Next.Js and Solidity**
 
