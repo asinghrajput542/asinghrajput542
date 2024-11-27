@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *asinghrajput542@gmail.com* <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13w8uxOwVs-XxdoBxehz4SW1WPovZHPFm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1S2GXjN4wvHUDaEZ3efgrQWsjq4dcVUJXogtSAW2hzbg/edit?usp=sharing)
 
 
 
